@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+body{
+  font-family: "Inter", sans-serif;
+}
+
+#shape-font{
+  font-family: "Dancing Script", cursive;
+  font-size: 100px;
+}
+
+/* field start */
+
+*{
+  margin: 0;
+}
+
+body{
+  max-width: 100%;
+  height: 3000px;
+  border: 2px solid red;
+  background-color: black;
+  
+}
+
+.color-section{
+  color: #E6533C;
+}
+
+/* nav bar design here */
+
+.nav-bar-menu{
+  width: 1060px;
+  height: 46px;
+  border: 2px solid red;
+  margin: 0 auto;
+  margin-top: 57px;
+  color: #E6533C;
+  justify-content: space-between;
+  align-items: center;
+  display: flex
+
+  
+}
+
+#brand{
+  font-size: 36px;
+  font-weight: 800;
+
+}
+
+.nav-details{
+  display: flex;
+  gap: 47px;
+  align-items: center;
+  color: white;
+}
+
+.btn{
+  width: 92px;
+  height: 38px;
+  background-color: #E6533C;
+  border-radius: 46px;
+  border: none;
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+
+}
+
+/* second section here */
+
+.nav-bar-item{
+  width: 100%;
+  height: 715px;
+  border: 2px solid red;
+  background-color: black;
+  background: linear-gradient(180.00deg, rgb(48, 44, 44),rgba(81, 74, 74, 0) 100%);
+  display: flex;
+
+}
+
+.text-item{
+  border: 2px solid red;
+  width: 50%;
+  height: 100%;
+  
+.text-bar{
+  padding-left: 279px;
+  padding-top: 136px;
+}
+
+}
+
+.img-item{
+  border: 2px solid red;
+  width: 50%;
+  height: 100%;
+}
+
+#brand-titile{
+  font-size: 78px;
+  font-weight: 900;
+  color: white;
+}
+
+#brand-description{
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  color: #665e5e;
+  margin-top: 30px;
+  
+}
+
+
+.btn-main{
+  margin-left: -15px;
+}
+.btn-01{
+  width: 224px;
+  height: 54px;
+  border-radius: 42px;
+  border: none;
+  background: rgb(230, 83, 60);
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+  margin:15px;
+  margin-top: 35px;
+}
+
+.btn-02{
+  width: 224px;
+  height: 54px;
+  border-radius: 42px;
+  border: none;
+  background: rgb(24, 24, 24);
+  border: 1px solid rgb(255, 255, 255);
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.img-item img{
+  width: 350px;
+  height: 580px;
+  margin-left: 200px;
+  margin-top: 133px;
+
+}
+
+
+
+/* change-your-habits-section */
+
+.change-your-habits{
+  width: 1100px;
+  height: 500px;
+  border: 2px solid red ;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+
+.habits-texts{
+  text-align: center;
+color: white;
+}
+
+.habits-texts h1 {
+  font-size: 50px;
+  font-weight: 900;
+text-align: center;
+color: white;
+
+}
+
+.habits-texts p {
+  font-size: 15px;
+  font-weight: 400;
+text-align: center;
+color: rgb(144, 139, 139);
+margin-top: 20px;
+
+}
+
+.habits-images{
+  margin-top: 25px;
+  margin-left: 17px;
+}
+
+
+.img-1, .img-2, .img-3, .img-4{
+  clip-path: circle();
+  margin: 40px;
+
+}
+
