@@ -19,7 +19,7 @@ body{
 
 body{
   max-width: 100%;
-  height: 3000px;
+  height: 4700px;
   border: 2px solid red;
   background-color: black;
   
@@ -269,3 +269,191 @@ font-weight: 600;
 margin-top: 20px;
 }
 
+
+
+
+/* training-exercise here */
+
+.training-exercise{
+  width: 1100px;
+  height: 580px;
+  border: 2px solid red;
+  margin: 0 auto;
+  margin-top: 100px;
+  color: white;
+}
+
+.training-exercise h1{
+  font-size: 50px;
+  font-weight: 900;
+
+}
+
+.training-exercise p{
+  font-size: 15px;
+  font-weight: 400;
+  color: #FFFFFF80;
+  line-height: 25px;
+  margin-top: 15px;
+}
+
+
+
+/* Bmi calculator section */
+
+.bmi-calculator{
+  width: 670px;
+  height: 120px;
+  border: 2px solid red;
+  margin: 0 auto;
+  margin-top: 90px;
+  color: white;
+  
+}
+.bmi-calculator h1{
+font-size: 50px;
+font-weight: 900;
+}
+
+.bmi-calculator p{
+font-size: 15px;
+font-weight: 400;
+color: #FFFFFF80;
+margin-top: 10px;
+}
+
+/* bmi-calculator-chart here */
+
+.bmi-calculator-chart{
+  width: 100%;
+  height: 487px;
+  border: 2px solid red;
+  margin-top: 90px;
+  background: rgb(34, 34, 34);
+  display: flex;
+  
+}
+
+.bmi-calculator-chart-section{
+  height: 487px;
+  width: 50%;
+  border: 2px solid blue;
+}
+
+.calculate-your-bmi{
+  height: 487px;
+  width: 50%;
+  border: 2px solid red;
+}
+
+/* meet-our-team-here */
+
+.meet-our-team{
+  width: 1060px;
+  height: 700px;
+border: 2px solid red;
+margin: 0 auto;
+margin-top: 90px;
+}
+
+.meet-our-text{
+  color: white;
+  text-align: center;
+  align-items: center;
+}
+
+.meet-our-text h1{
+  font-size: 50px;
+  font-weight: 900;
+}
+
+.meet-our-text p{
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 25px;
+  color: #FFFFFF80;}
+
+
+  /* footer-section */
+
+  .footer-section{
+    width: 100%;
+    height: 500px;
+    border: 2px solid red;
+    margin-top: 90px;
+    background: rgba(255, 255, 255, 0.1);
+  }
+ 
+  .footer-main{
+    width: 1060px;
+    height: 250px;
+    border: 2px solid red;
+    margin: 0 auto;
+    margin-top: 90px;
+    display: flex;
+
+  }
+
+  .footer-align-1{
+    width: 50%;
+    height: 250px ;
+    border: 2px solid white;
+  }
+
+  .footer-align-1 h1{
+    font-size: 70px;
+    font-weight: 800;
+    color: #E6533C;
+  }
+
+  .footer-align-1 p{
+font-size: 15px;
+font-weight: 400;
+margin-top: 20px;
+color: #FFFFFF80;
+line-height: 24px;
+  }
+
+  .footer-align-2{
+    width: 50%;
+    height: 250px ;
+    border: 2px solid white;
+    display: flex;
+  }
+
+  .footer-menu-1{
+   width: 50%;
+   height: 250px;
+   border: 2px solid yellow;
+   
+  }
+
+  .footer-menu-2{
+    width: 50%;
+    height: 250px;
+    border: 2px solid yellow;
+  }
+
+  #get-1{
+    color: white;
+    font-size: 32px;
+    font-weight: 700;
+  }
+
+  #get-2{
+    color: white;
+    font-size: 32px;
+    font-weight: 700;
+  }
+
+  .footer-menu-1 p{
+    color: #FFFFFF80;
+    margin-top: 30px;
+  }
+
+  .footer-menu-2 p{
+    color: #FFFFFF80;
+    margin-top: 30px;
+  }
+
+  
